@@ -67,7 +67,8 @@
 
 <body>
 	<div align="center">
-		<p>[LogicaAlternativa.com] Ejemplo de securización acceso sha1</p>  
+		<p>[<b>LogicaAlternativa.com</b>] Ejemplo de securización acceso sha1</p> 
+		<p>Para más información leé el <a href="http://wwww.logicaalternativa.com/securizacion-de-formulario-de-acceso-con-sha-1">POST</a>. También puedes ver el <a href="https://github.com/logicaalternativa/ejemplosPhp/tree/master/loginsha1/resultado.php" target="_blank">código</a></p>
 	</div>
 
 	<div align="center">
@@ -79,5 +80,6 @@
 	  <p>Contraseña: <em><?= $_REQUEST['contra'] ?></em></p> 
 	  <p><a href= "index.php">volver</a></p>
 	</div>
+
 </body>
 </html>
